@@ -25,13 +25,13 @@
 
 ## Features
 
-📋 **Record-based System**: Define data entries as serializable classes
-🔑 **Key Fields**: Mark fields as searchable keys using `[RecordKeyField]` attribute
-📝 **ScriptableObject Integration**: Store and edit data directly in Unity Editor
-⚡ **Auto-sorting**: Automatically sorts records by keys when added
-🔍 **Fast Lookups**: Utilizes Binary Search for optimal performance
-🛠️ **Code Intelligence**: IDE analyzer provides compile-time warnings and validation
-🎯 **Type Safety**: Strong typing prevents runtime errors
+- 📋 **Record-based System**: Define data entries as serializable classes
+- 🔑 **Key Fields**: Mark fields as searchable keys using `[RecordKeyField]` attribute
+- 📝 **ScriptableObject Integration**: Store and edit data directly in Unity Editor
+- ⚡ **Auto-sorting**: Automatically sorts records by keys when added
+- 🔍 **Fast Lookups**: Utilizes Binary Search for optimal performance
+- 🛠️ **Code Intelligence**: IDE analyzer provides compile-time warnings and validation
+- 🎯 **Type Safety**: Strong typing prevents runtime errors
 
 ## Getting Started
 
