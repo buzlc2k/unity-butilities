@@ -1,7 +1,7 @@
 using UnityEngine;
 
 namespace ServiceButcator {
-    [DisallowMultipleComponent]
+    [DisallowMultipleComponent, DefaultExecutionOrder(-50)]
     public abstract class RuntimeInstaller : MonoBehaviour
     {
         protected RuntimeServiceLocator serviceLocator = default;
